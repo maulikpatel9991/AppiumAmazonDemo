@@ -1,0 +1,2 @@
+[32mINFO    [0m BasePage:BasePage.py:56 Element not found with LocatorType: id and with the locatorValue :skip_sign_in_button
+[32mINFO    [0m BasePage:BasePage.py:71 Unable to click on Element with LocatorType: id and with the locatorValue :skip_sign_in_button

@@ -1,0 +1,4 @@
+[32mINFO    [0m BasePage:BasePage.py:54 Element found with LocatorType: xpath with the locatorValue ://android.widget.ImageView[@content-desc="Select English"]
+[32mINFO    [0m BasePage:BasePage.py:68 Clicked on Element with LocatorType: xpath and with the locatorValue ://android.widget.ImageView[@content-desc="Select English"]
+[32mINFO    [0m BasePage:BasePage.py:54 Element found with LocatorType: id with the locatorValue :in.amazon.mShop.android.shopping:id/continue_button
+[32mINFO    [0m BasePage:BasePage.py:68 Clicked on Element with LocatorType: id and with the locatorValue :in.amazon.mShop.android.shopping:id/continue_button

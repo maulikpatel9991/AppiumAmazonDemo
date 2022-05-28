@@ -1,0 +1,4 @@
+[32mINFO    [0m BasePage:BasePage.py:54 Element found with LocatorType: text with the locatorValue :Enter an Indian pincode
+[32mINFO    [0m BasePage:BasePage.py:68 Clicked on Element with LocatorType: text and with the locatorValue :Enter an Indian pincode
+[32mINFO    [0m BasePage:BasePage.py:54 Element found with LocatorType: text with the locatorValue :Apply
+[32mINFO    [0m BasePage:BasePage.py:68 Clicked on Element with LocatorType: text and with the locatorValue :Apply

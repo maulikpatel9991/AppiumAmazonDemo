@@ -1,0 +1,6 @@
+[32mINFO    [0m BasePage:BasePage.py:54 Element found with LocatorType: text with the locatorValue :Add to Cart
+[32mINFO    [0m BasePage:BasePage.py:68 Clicked on Element with LocatorType: text and with the locatorValue :Add to Cart
+[32mINFO    [0m BasePage:BasePage.py:54 Element found with LocatorType: text with the locatorValue :Cart
+[32mINFO    [0m BasePage:BasePage.py:68 Clicked on Element with LocatorType: text and with the locatorValue :Cart
+[32mINFO    [0m BasePage:BasePage.py:56 Element not found with LocatorType: text and with the locatorValue :Proceed to Buy (1 item)
+[32mINFO    [0m BasePage:BasePage.py:71 Unable to click on Element with LocatorType: text and with the locatorValue :Proceed to Buy (1 item)

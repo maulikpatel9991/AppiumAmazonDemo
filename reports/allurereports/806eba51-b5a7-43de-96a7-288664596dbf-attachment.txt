@@ -1,0 +1,2 @@
+[32mINFO    [0m BasePage:BasePage.py:54 Element found with LocatorType: text with the locatorValue :Redmi 9A Sport (Carbon Black, 2GB RAM, 32GB Storage) | 2GHz Octa-core Helio G25 Processor | 5000 mAh Battery
+[32mINFO    [0m BasePage:BasePage.py:68 Clicked on Element with LocatorType: text and with the locatorValue :Redmi 9A Sport (Carbon Black, 2GB RAM, 32GB Storage) | 2GHz Octa-core Helio G25 Processor | 5000 mAh Battery

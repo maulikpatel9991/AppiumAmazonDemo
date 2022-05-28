@@ -1,0 +1,2 @@
+[32mINFO    [0m BasePage:BasePage.py:56 Element not found with LocatorType: text and with the locatorValue :Enter an Indian pincode
+[32mINFO    [0m BasePage:BasePage.py:71 Unable to click on Element with LocatorType: text and with the locatorValue :Enter an Indian pincode
