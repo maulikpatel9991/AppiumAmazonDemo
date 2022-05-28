@@ -1,7 +1,7 @@
 # AppiumAmazonDemo
 
 
-1.First Install requirements.txt
+1.First Install requirements.txt                                                                                                        
 •	pip install -r requirements.txt
 2. python -m py.test --alluredir="allurereports-Path"  TestCaseName.py
 3. Show Allure Report
